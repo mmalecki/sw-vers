@@ -1,0 +1,8 @@
+{
+  "name": "sw-vers",
+  "description": "Parser for `sw_vers` command output",
+  "keywords": ["sw_vers", "version", "os x", "os"],
+  "author": "Maciej Małecki <me@mmalecki.com>",
+  "version": "0.0.0",
+  "main": "./lib/sw-vers"
+}
